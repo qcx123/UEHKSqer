@@ -6,7 +6,6 @@
 //
 
 #import "ViewController.h"
-#import "UniLogin/UniLogin.h"
 #import "UniLoginHeader.h"
 
 @interface ViewController ()
@@ -17,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    
 }
 
 
